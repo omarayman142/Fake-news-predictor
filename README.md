@@ -1,5 +1,6 @@
 # Fake-news-predictor
 🧠 Text Classification using N-Gram Features
+Dataset link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 📌 Overview
 
 This project focuses on building a high-performance Text Classification model using traditional Machine Learning techniques with advanced feature engineering.
